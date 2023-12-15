@@ -1,0 +1,1 @@
+From ghcr.io/codesandbox/devcontainers/typescript-node:latest
